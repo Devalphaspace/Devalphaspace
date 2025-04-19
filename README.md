@@ -5,9 +5,7 @@
 
 - 👨‍💻 Website [https://devalphaspace.com/](https://devalphaspace.com/)
 
-- 👨‍💻 Our all social links [https://devalphaspace-socials.vercel.app/](https://devalphaspace-socials.vercel.app/)
-
-- 📫 How to reach us **work.devalphaspace@gmail.com**
+- 📫 How to reach us **work@devalphaspace.com**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
